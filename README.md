@@ -1,4 +1,4 @@
-# JavaScript-Bookmarker LocalStorage Application
+# JavaScript - Bookmarker Application
 
 Simple application for bookmarking webistes. It uses localStorage for storing bookmarks.
 
